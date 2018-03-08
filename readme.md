@@ -1,0 +1,1 @@
+A simple docker image built on the official node alpne image, with git installed.
